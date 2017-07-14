@@ -1,0 +1,23 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "description": "MERN Startup",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack -p"
+  },
+  "keywords": [],
+  "author": "Esteban Murchio",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1"
+  }
+}
